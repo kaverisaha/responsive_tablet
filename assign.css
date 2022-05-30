@@ -20,7 +20,7 @@
     display: none;
   }
   
-  .mobile-menu svg {
+  .tablet-menu svg {
     fill: #37c5da;
   }
   
@@ -40,7 +40,7 @@
     nav a:hover {
       color: #0808c3;
     }
-    mobile-menu {
+    tablet-menu {
       display: none;
     }
     .tablet-menu svg {
